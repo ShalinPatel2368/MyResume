@@ -36,7 +36,7 @@ export class AppComponent {
       {name: 'C', percent: 65},
       {name: 'C++', percent: 65},
       {name: 'XML', percent: 65},
-      {name: 'JSON', percent: 65},
+      {name: 'JSON', percent: 100},
       {name: 'JSP', percent: 65},
       {name: 'Servlet', percent: 65},
       {name: 'Tomcat', percent: 65},
